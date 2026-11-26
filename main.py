@@ -2,7 +2,7 @@
 
 import os
 
-LINE = "Your code will outlive you. Comment accordingly, and be kind to the stranger who inherits it."
+LINE = "Your code will outlive you. Comment accordingly — the stranger who inherits it may be future you."
 
 
 def main():
